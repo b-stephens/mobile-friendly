@@ -3,8 +3,8 @@ body {
 }
 
 .row-1-xs {
-    height: 50px;
-    margin-top: 40px !important;
+    height: 33px;
+    margin-top: 53px !important;
 }
 
 .row-3 {
@@ -21,17 +21,17 @@ body {
 }
 
 .xs {
-    height: 50px;
+    height: 33px;
 }
 
 .md {
-    height: 200px;
+    height: 250px;
 }
 
 .lg {
-    height: 200px;
+    height: 250px;
 }
 
 .xl {
-    height: 400px;
+    height: 600px;
 }
