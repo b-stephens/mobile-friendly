@@ -1,5 +1,37 @@
-.jumbotron {
-    text-align: center;
-    width: 90%;
-    margin: 50px auto;
+body {
+    margin: 50px 0;
+}
+
+.row-1-xs {
+    height: 33px;
+    margin-top: 53px !important;
+}
+
+.row-3 {
+    margin-top: 50px;
+}
+
+.black {
+    background-color: black;
+    margin: 25px 0;
+}
+
+.sm {
+    height: 100px;
+}
+
+.xs {
+    height: 33px;
+}
+
+.md {
+    height: 250px;
+}
+
+.lg {
+    height: 250px;
+}
+
+.xl {
+    height: 600px;
 }
